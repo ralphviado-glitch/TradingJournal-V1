@@ -1,5 +1,5 @@
 📊 Trading Journal (React Dashboard)
-
+Preview: ./preview.png
 A trading analytics dashboard built with React that processes real broker CSV data, converts timezones, groups order fills into trades, and generates performance insights.
 
 🚀 Key Features
